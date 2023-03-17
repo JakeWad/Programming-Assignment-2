@@ -1,7 +1,7 @@
-# Programming-Assignment-2
-Programming Languages
+Lewis University 
+SP23-CPSC-46000-LT1-Programming Languages 
 
-Programming Assignment Week 2
+Programming-Assignment-2
 
 Write a Python program to display a string’s index 0, 1, 2, 6, 7, 8, 12, 13, 14, 18, 19, 20, … (3 on and 3 off pattern) location characters for any string given.
 	Sample Input String: “abcdefghijklmnopqrstuvwxyz”
